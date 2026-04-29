@@ -1,0 +1,2 @@
+ALTER TABLE "employees"
+    ALTER COLUMN "middle_name" SET DATA TYPE VARCHAR(100);
