@@ -1,4 +1,4 @@
-# 📘 PostgreSQL Data Aggregation Cheat Sheet
+# 📘 Data Aggregation
 
 ## 📑 Table of Contents
 
