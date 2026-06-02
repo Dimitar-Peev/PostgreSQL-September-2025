@@ -5,9 +5,9 @@
 * [Grouping](#-grouping)
 * [Aggregate Functions](#-aggregate-functions)
 * [HAVING Clause](#-having-clause)
-* [CASE Expressions](#-case-expressions)
+* [CASE Expressions](#case-expressions)
 * [COALESCE](#-coalesce)
-* [Common Patterns](#-common-patterns)
+* [Common Patterns](#common-patterns)
 
 ---
 
@@ -161,7 +161,7 @@ ORDER BY "department_id";
 
 ---
 
-## ⚖️ CASE Expressions
+## CASE Expressions
 
 * Similar to `if / else` logic
 * Can be used in:
@@ -299,7 +299,7 @@ HAVING COALESCE(COUNT("salary") > 0, FALSE);
 
 ---
 
-## ⚙️ Common Patterns
+## Common Patterns
 
 ---
 
