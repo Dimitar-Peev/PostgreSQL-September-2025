@@ -1,4 +1,4 @@
-# 📘 PostgreSQL Joins, Subqueries & Indices Cheat Sheet
+# 📘 Joins, Subqueries & Indices
 
 ## 📑 Table of Contents
 
@@ -33,7 +33,8 @@ FROM table_a
 Occurs when no join condition exists.
 
 ```sql id="3yr9bz"
-SELECT "last_name", "name"
+SELECT "last_name",
+       "name"
 FROM "employees",
      "departments";
 ```
