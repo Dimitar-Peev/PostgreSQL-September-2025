@@ -1,0 +1,7 @@
+SELECT a."name",
+       a."country",
+       DATE(b."booked_at") || '' AS "booked_at"
+FROM "apartments" AS a
+         LEFT JOIN "bookings" AS b
+                   USING ("apartment_id")
+LIMIT 10;
