@@ -1,6 +1,6 @@
-DROP DATABASE IF EXISTS "electronics_store ";
+DROP DATABASE IF EXISTS "electronics_store";
 --
-CREATE DATABASE "electronics_store ";
+CREATE DATABASE "electronics_store";
 --
 CREATE TABLE "brands"
 (
