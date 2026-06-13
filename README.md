@@ -1,4 +1,4 @@
-# PostgreSQL-September-2025
+# PostgreSQL-May-2026
 Contains solutions from lectures and exercises from the SoftUni course.
 
 <h3>For the course</h3>
